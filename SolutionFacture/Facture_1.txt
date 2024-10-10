@@ -1,0 +1,4 @@
+Produit{prix=1000.0, libelle='Ordinateur'}	2
+Produit{prix=50.0, libelle='Souris'}	5
+Prix HT = 2250.0
+Prix TTC = 2250.0
